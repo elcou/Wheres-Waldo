@@ -1,0 +1,11 @@
+Database of labeled images of Where's Waldo.
+Will be used to train to recognize Waldo in every image.
+
+Database:
+- 19 original images
+- smaller portions of the 19 images labeled as Waldo or NotWaldo (in color, grayscale and binary)
+
+Image Formats: 
+256 x 256 pixels (317 images)
+128 x 128 pixels (1344 images)
+64 x 64 pixels (5376 images)
